@@ -1,0 +1,2 @@
+# KIDNEY_TOMOUR_PROJECT
+End to END DEEP LEARNING PROJECT - Deep learning projecT - MLOPS -DVC -DOCKER - CI/CD -MODULAR CODING- AWS CLOUD - VGG16_ using Kidney CT scan images
