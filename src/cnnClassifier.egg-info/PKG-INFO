@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: cnnClassifier
+Version: 0.0.0
+Summary: A small python package for CNN app
+Home-page: https://github.com/v-dev688/KIDNEY_TOMOUR_PROJECT
+Author: v-dev688
+Author-email: vdrss3@gmail.com
+Project-URL: Bug Tracker, https://github.com/v-dev688/KIDNEY_TOMOUR_PROJECT/issues
+
+# KIDNEY_TOMOUR_PROJECT
+End to END DEEP LEARNING PROJECT - Deep learning projecT - MLOPS -DVC -DOCKER - CI/CD -MODULAR CODING- AWS CLOUD - VGG16_ using Kidney CT scan images
